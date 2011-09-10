@@ -569,10 +569,10 @@ djberg86\100attbi.com                   djberg96\100attbi.com
 domo\100computer.org                    shouldbedomo\100mac.com
 +                                       domo\100slipper.ip.lu
 +                                       domo\100tcp.ip.lu
+dougdude\100cpan.org                    doug\100somethingdoug.com
 dougm\100covalent.net                   dougm\100opengroup.org
 +                                       dougm\100osf.org
 dougw\100cpan.org                       doug_wilson\100intuit.com
-+                                       doug\100somethingdoug.com
 dwegscheid\100qtm.net                   wegscd\100whirlpool.com
 edwardp\100excitehome.net               epeschko\100den-mdev1
 +                                       epeschko\100elmer.tci.com
